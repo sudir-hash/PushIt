@@ -12,7 +12,7 @@ gh auth login
 # Add the following lines to your .bashrc or .zshrc
 
 ```
-alias pushit='bash <path to Pushit>/gp.bash $(basename "$PWD") "$PWD"'
+alias pushit='bash <path to Pushit>/pushit.bash $(basename "$PWD") "$PWD"'
 ```
 
 # Problems
